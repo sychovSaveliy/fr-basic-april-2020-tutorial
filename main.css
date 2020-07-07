@@ -4,3 +4,7 @@
   background-color: red;
   flex-direction: column;
 }
+
+.container {
+  color: red;
+}
