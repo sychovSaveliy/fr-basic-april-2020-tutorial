@@ -1,4 +1,6 @@
 # fr-basic-april-2020-tutorial
 
-1. Zenin Vladymyr - student
-1. Savelii Sychov - mentor
+
+1. Rubanyk Roman - young oarsman!
+2. Zenin Vladymyr - student
+3. Savelii Sychov - mentor
