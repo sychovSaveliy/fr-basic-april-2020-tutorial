@@ -6,3 +6,4 @@
 3. Zenin Vladymyr - student
 4. Savelii Sychov - mentor
 5. Vladimir Pronenko - batman!
+6. Artem Polansky - student
